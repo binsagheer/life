@@ -1,0 +1,139 @@
+
+
+
+                            /* ==================================================== */
+                                        /* RISPONSIVE PART OF WEBSIYE */
+                            /* =====================================================  */
+
+
+                            @media (max-width:1052px) {
+                                .custmer-pic img{float: none !important;}
+                                
+                            }
+@media (min-width:1053px) and (max-width:1440px) {
+    .part-2 .inner-container1{padding: 0 200px !important;}
+    
+}
+@media (min-width:992px) and (max-width:1053px) {
+    .part-2 .inner-container1{padding: 0 100px !important;}
+    
+}
+@media (min-width:820px) and (max-width:992px) {
+    .part-2 .inner-container1{padding: 0 50px !important;}
+    
+}
+@media (min-width:768px) and (max-width:820px) {
+    .part-2 .inner-container1{padding: px !important;}
+    
+}
+.custmer-pic-2 img{margin-top: 50px;}
+@media (min-width:576px) and (max-width:779px) {
+    /* .custmer-pic-2 img{width: 70% !important;height: 100% !important;max-width: 100% !important;} */
+    /* .custmer-text h3{font-size: 20px !important;} */
+    /* .custmer-text ul{line-height: normal !important;} */
+    /* .custmer-pic{width: 70% !important;height: 100% !important;max-width: 100% !important;} */
+}       /* .custmer-pic-2 img{width: 100% !important;height: 100% !important;object-fit: cover !important;} */
+/* @media  (max-width:769px) {
+    .text-1{margin-left: 60px !important;}
+} */
+
+@media (min-width:1440px) {
+    .vs img{padding-top: 300px !important;}
+    
+}
+
+
+@media (min-width:385px) and (max-width:769px) {
+    .text-1{margin-left: 60px !important;}
+}
+
+    
+                            
+@media (max-width:995px) {
+    .salogan{margin: 0 !important;}
+    .listing{line-height: 1.2rem !important;font-weight: normal !important;font-size: 18px !important;}
+    .head-form{margin-left: 0 !important;}
+    .sticker img{margin: 0 !important;}
+    /* .team-image img{margin-top: 150px !important;max-width: 150% !important;} */
+    
+}
+@media  (max-width:350px) {
+    .card-1 {
+        width:100% !important;
+}
+}
+
+@media (min-width:768px) and (max-width:991px) {
+      .team-image img{margin-top: 150px !important;width: 150% !important;} 
+      .button-2 img{width: 70% !important;margin: auto !important;display: block !important;max-width: 100% !important;}
+      .head-form{padding: 0px 200px !important;}
+}
+@media (max-width:890px) {
+.inner-container1{
+           padding: 0px !important;
+       }
+       .inner-container1{padding: 0px !important;}
+     }
+
+    
+     @media (max-width:767px) {
+        .inner-container1{
+           padding: 0px !important ;
+       }
+       .button-2 img{width: 50% !important;margin: auto !important;display: block !important;max-width: 100% !important;}
+       .stratup-line h3{color: #ffffff !important;}
+       .vs img{width: auto !important;height: auto !important;padding-top: 0px !important;}
+       .left{margin-top:0px !important;}
+       .right{margin-top: 0px;}
+       .custmer-pic img{width:300px!important;height:100% !important;display: block !important;margin: auto !important;}
+       .custmer-text{display: block !important;margin: auto !important;}
+       .custmer-pic-2 img{width: 300px !important;height: 100% !important;display: block !important;margin: auto !important;}
+       .model-image img{max-width: 100%!important; width: 40% !important;height: 100% !important;margin: auto !important;display: block !important;}
+       .model-text h2{margin-top: 20px !important;}
+       .bally-area-img3 img{width: 100% !important;height: 100% !important;display: block !important;}
+       /* .bally-area3{position: relative !important;} */
+       /* .custmer-pic img{margin: 0 !important;} */
+       .brand img{width: 30% !important;margin: auto !important;display: block !important;max-width: 100% !important;}
+       .sticker img{width: 60% !important;display: block !important;margin: auto !important;max-width:100% !important;}
+       .brand-text{padding-left: 20px !important;}
+       .artical-1 img{display: block !important;margin: auto !important;}
+       .artical-2 img{display: block !important;margin: auto !important;}
+       .artical-3 img{display: block !important;margin: auto !important;}
+       .head-form{padding: 0px 100px !important;}
+       .main-text{display: flex !important;justify-content: center !important;align-items: center !important;flex-direction: column !important;}
+       .down-up{flex-direction: column-reverse !important;} 
+     }
+   
+     .pre-contect .inner-container1{padding: 0px !important;} 
+
+
+     @media (max-width:576px) {
+        .model-image img{max-width: 100%!important; width: 70% !important;height: 100% !important;margin: auto !important;display: block !important;}
+        .artical-1 img{max-width: 100%!important;height:auto !important;display: block !important;margin: auto !important;width: 70% !important;}
+        
+        .artical-2 img{max-width: 100%!important;height:auto !important;display: block !important;margin: auto !important;width: 70% !important;}
+        
+        .artical-3 img{max-width: 100%!important;height:auto !important;display: block !important;margin: auto !important;width: 70% !important;}
+        .brand-text h6{padding: 0 !important;}
+        .salogan {text-align: center !important;}
+        .salogan h1{font-size: 34px !important;}
+        .salogan p{font-size: 40px !important;}
+        .brand img{width: 40% !important;margin: auto !important;display: block !important;max-width: 100% !important;}
+        /* .head-form{padding: 0 !important;} */
+        .pre-contect .inner-container1{padding: 0px !important;} 
+        .head-form{padding: 0px 70px !important;}
+
+     }
+   
+     @media (max-width:425px) {
+        .button-2 button a{font-size: 12px !important;
+
+        }
+        .button-2 button{padding: 5px 10px !important;}
+        .home .container{padding: 0 !important;}
+     }
+     button.owl-prev span{color: aqua;}
+     button.owl-next span{color: aqua;}
+     .owl-theme .item{width:300px;height: 300px;display: block;margin: auto;}
+     .item-video{width: 450px;height: 450px;display: block;margin: auto;}
+    
